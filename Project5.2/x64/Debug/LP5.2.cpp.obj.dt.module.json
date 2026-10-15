@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Project5.2\\x64\\Debug\\LP5.2.obj",
+            "outputs": [
+                "Project5.2\\x64\\Debug\\LP5.2.cpp.obj.dt.module.json",
+                "Project5.2\\x64\\Debug\\LP5.2.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
