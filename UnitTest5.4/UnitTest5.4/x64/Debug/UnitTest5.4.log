@@ -1,0 +1,8 @@
+﻿  UnitTest5.4.cpp
+C:\Users\4cosm\source\repos\Project5.4\Project5.4\LP5.4.cpp(56,7): warning C4101: 'i': unreferenced local variable
+  (compiling source file '/UnitTest5.4.cpp')
+  
+C:\Users\4cosm\source\repos\Project5.4\Project5.4\LP5.4.cpp(57,10): warning C4101: 't': unreferenced local variable
+  (compiling source file '/UnitTest5.4.cpp')
+  
+  UnitTest5.4.vcxproj -> C:\Users\4cosm\source\repos\UnitTest5.4\x64\Debug\UnitTest5.4.dll
